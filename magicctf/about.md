@@ -10,10 +10,10 @@ Therefore, the game tries to look & feel somehow magical-medieval - accordingly,
 Other than rubenwardy's CTF, it doesnt focus on removing stuff to keep the game focused, but instead aims at adding even more.
 That should lead to a more interesting gameplay. Players should be encouraged to develop their own strategies.
 
-[GitHub](deadlink)
-------------------
+GitHub
+------
 
-GitHub Organization
+[GitHub Organization](https://github.com/magicctf)
 
 Logo
 ----
@@ -23,7 +23,9 @@ Logo
 Setup
 -----
 
-For information on how to run a server or install a subgame, please visit Minetest Forum : [How to--](dead)
+For information on how to run a server or install a subgame, please visit Minetest Forum : [Setting up, running, and maintaining a server](https://forum.minetest.net/viewtopic.php?f=10&t=17373)
+Go to the release section to download the Magic-CTF Minetest Subgame.
+You can additionaly also get the High Contrast Texture Pack.
 
 Required Minetest Version
 -------------------------
@@ -40,4 +42,4 @@ Mentioned in "Content" section.
 Feedback
 --------
 
-Feedback on Minetest Forum, please : [Feedback Thread](jkk)
+Feedback on Minetest Forum, please : [Magic-CTF Project Thread](https://forum.minetest.net/viewtopic.php?f=49&t=20523)

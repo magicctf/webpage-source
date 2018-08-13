@@ -4,6 +4,12 @@ Content
 
 __Note : Some details may be left entirely out, as we don't have time to maintain the docs really well.__
 
+Texture Packs
+-------------
+
+It is planned to add multiple texture packs by just filtering the textures.
+Currently there is only a [High Resolution Texture Pack](releases.html).
+
 Crafting Recipes
 ----------------
 
