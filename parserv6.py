@@ -151,7 +151,7 @@ def parse_markdown(string,parent=False,parent_quote=False,subquote=0): # PARSES 
                                     breakit=True
                                     imglink=string[i+2:j].split(" ",1)
                                     tags.append((img(text,imglink[0],imglink[1]),"image"))
-                                    index=j+1
+                                    index=j
                         break
                 if breakit:
                     continue
