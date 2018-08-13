@@ -8,7 +8,7 @@ Texture Packs
 -------------
 
 It is planned to add multiple texture packs by just filtering the textures.
-Currently there is only a [High Resolution Texture Pack](releases.html).
+Currently there is only a [High Contrast Texture Pack](releases.html).
 
 Crafting Recipes
 ----------------

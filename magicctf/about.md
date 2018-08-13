@@ -24,7 +24,7 @@ Setup
 -----
 
 For information on how to run a server or install a subgame, please visit Minetest Forum : [Setting up, running, and maintaining a server](https://forum.minetest.net/viewtopic.php?f=10&t=17373)
-Go to the release section to download the Magic-CTF Minetest Subgame.
+Go to the [release section](releases.html) to download the Magic-CTF Minetest Subgame.
 You can additionaly also get the High Contrast Texture Pack.
 
 Required Minetest Version
