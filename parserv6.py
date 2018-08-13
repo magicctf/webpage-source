@@ -172,7 +172,7 @@ def parse_markdown(string,parent=False,parent_quote=False,subquote=0): # PARSES 
                                 if (c3 == ")"):
                                     breakit=True
                                     tags.append((text,"link",string[i+2:j]))
-                                    index=j+1
+                                    index=j
                         break
                 if breakit:
                     continue
