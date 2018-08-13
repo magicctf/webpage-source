@@ -9,7 +9,7 @@ E-Mail : [appgurulars@gmx.de](mailto:appgurulars@gmx.de)
 MT Forum : [LMD](lmd)
 GitHub : [appgurueu](github.com/appgurueu)
 
-![Image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Self portrait of LMD")
+![Image](invalid "Self portrait of LMD")
 
 KGM
 ---
@@ -18,4 +18,4 @@ E-Mail : [kai_gerd_mueller@gmx.de](mailto:kai_gerd_mueller@gmx.de)
 MT Forum : [KGM](kgm)
 GitHub : [KaiGerdMueller](github.com/KaiGerdMueller)
 
-![Image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "KGM's MT Forum Icon")
+![Image](https://forum.minetest.net/download/file.php?avatar=20170_1479406280.png "KGM's MT Forum Icon")
