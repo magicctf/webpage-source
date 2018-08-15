@@ -2,7 +2,7 @@ Credits:Giving credits to all contributors.
 Credits
 =======
 
-Magic-CTF is being developed by KGM and LMD. But of course, it's not only our work - much stuff is by other contributors.
+Magic-CTF is mainly being developed by KGM and LMD. But of course, it's not only our work - much stuff is by other contributors.
 __Note : We don't even dare to compare the contributions of the people listed below, so please don't take anything wrong.__
 __Furthermore, of course there are far more people I'd have to give thanks to; developers, artists and many other contributors all over the world - but unfortunately, that's not possible in here.__
 

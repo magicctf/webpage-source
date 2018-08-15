@@ -1,6 +1,7 @@
 About Us:About the main developers(LMD and KGM). Contact information is included, too.
 About Us
 ========
+The Magic-CTF main developers are LMD and KGM, although other contributions are included too. See the [Credits](credits.html).
 
 LMD
 ---

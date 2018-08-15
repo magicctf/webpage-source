@@ -3,12 +3,34 @@ Content
 =======
 
 __Note : Some details may be left entirely out, as we don't have time to maintain the docs really well.__
+__So if you want to know **all** the content, have a try on Magic-CTF and discover it by yourself ;)__
+
+Overview
+--------
+
+![Image](mctf_dir.png "Mod overview")
+
+Icons :
+* Green folder : Mod was forked to fit better into Magic-CTF
+* Orange folder : Mod is a default mod, which was left idle
+* Blue folder with heart : Mod is by us
+* Other blue folders : Mod was taken from elsewhere. See ["Credits" section](credits.html) for details.
+
+Exceptions : 
+* Advanced Boats(adv_boats) : A fork of the MTG boat mod, but **totally** different.
+* Same goes for Gliders(airships) : A fork of the adv_boats mod, but shows almost **no** resemblance to the boats mod from MTG.
+
+About the forks : 
+Look the content documentation below.
+
 
 Texture Packs
 -------------
 
 It is planned to add multiple texture packs by just filtering the textures.
-Currently there is only a [High Contrast Texture Pack](releases.html).
+Currently there is a [High Contrast Texture Pack](releases.html).
+It includes a **rune progress bar**.
+However, the [Rune Progress Bar](releases.html) is also available standalone.
 
 Crafting Recipes
 ----------------
@@ -60,13 +82,77 @@ A `+` and a `-` button to improve/downgrade certain skills.
 Skills
 ------
 
-Registers the skills. If certain skills give you items, such as Magic Wands/Staves, you won't be able to drop them. Also, they won't be dropped on death.
+Registers the skills. If certain skills give you items, such as magic wands/staves, you won't be able to drop them. Also, they won't be dropped on death.
 
+Magical(magical)
+----------------
+
+**Mod by KGM**. Responsible for some magic in this game.
+
+### Creatures
+This adds two creatures, (big) parasites and small ones.
+They are pretty similar, however, a big parasite will kill you instantly.
+Small parasites on the other hand will __infect__ you, which means they lay eggs inside you, and after some time, you'll die and new small parasites will spawn.
+Therefore, keep a look at the n00bs in your team, to make sure they don't carry the plague to your base !
+Both are spawned using magic staves, which you can obtain by upgrading the appropriate skills in the skill selection dialog.
+When using such a stave, you'll create a __Hell Portal__, which can't be destroyed and will spawn certain parasites one by one, after time.
+Parasites don't belong to any team, so it would be a bad idea to open such a portal next to your base.
+
+### Staves
+There are many magic spells which can be casted using **magic staves/wands**. To be able to use them, upgrade them in the skill selection dialog.
+For casting spells, sufficient __Mana__ is required. Spells will be stronger if you cast them using more mana.
+Spells can deal __floating point damage__ which is summed up.
+Physical armor can't protect against spells, while magical can. Galvorn & Diamond armor offer magical protection.
+All magic **ignores any nodes**. Probably magic barricades will get added to this. 
+
+#### Parasites
+Comes in two variants, one for spawning big parasites and one for small ones. See "Creatures".
+
+#### Fire
+Kinda basic ? Set enemies on fire using this stave.
+
+#### Poison
+Pretty much like fire, but deals more damage. Why ? Because it's a risk for the caster to use : Poison __inflicts__ nearby players. So never use such a stave if the enemy is too close...
+
+#### Exile
+Having a problem with the parasite plague ? Ban them into exile ! After a time, they'll bother you again, unfortunately...
+
+#### Heal
+Running out of HP ? Heals yourself.
+
+#### Teamheal
+Good for supporting your mates, as it's far stronger than normal heal stave. Also, the more allies you reach, the more it heals yourself !
+
+#### Dazzling
+Go ask KGM.
+
+#### Curse
+Curses you and your enemy, the enemy stronger. **You are also cursed if you don't hit anybody.** Vengeance needed ?
+
+#### Bless
+Protects you and allies from damage of any kind for some time. You are protected more the more allies you reach.
+
+#### Lifesteal
+Steals life from the victim, healing the caster.
+
+#### Manadrain
+Drains an enemies mana.
+
+#### Air
+Remember the 4 elements ? Blasts enemy players into air.
+
+#### Survey
+Additional information required, commander ? This stave will show additional infos using runes in the air, which are pointing towards parasites or enemies.
+
+#### Freeze
+Covers enemies up in an iceprison. Prison disappears after some time.
+
+**Of course this can need some more magic !**
 
 Bones(bones)
 ------------
 
-Added a flag for items which are not to be dropped on death.
+Added a flag for items which are not to be dropped on death. Examples of such items are __initial items__ or __magic wands__.
 
 
 Screwdriver(screwdriver)
@@ -81,46 +167,52 @@ Player Regeneration(player_regen)
 Title says it all : Gives health regen to all players.
 
 
-Advanced Firearms(adv_arms)
----------------------------
+Advanced Firearms & Weapons(adv_arms)
+-------------------------------------
 
-This mod adds the following firearms to Magic-CTF : 
+This mod adds the following ranged weapons to Magic-CTF : 
 
 Launchers : 
-* Single
-* Dual
-* Hedgehog
+* Single - launches 1
+* Dual - 2
+* Hedgehog - 4 __in real life, hedgehogs are launchers that spread many watermines over a large area__
+* Rapid Fire - can load 3
 
 Types :
-* Grenades
+* Grenades - explode after fixed time(7.5 s), can be thrown
    * Smoke
    * Blend
    * Gas
    * Normal/Explosive
-* Rockets
+* Rockets - explode __immediately__ on hit, huge particle effect behind entity, can only be launched
    * Small, fast
    * Medium, moderate speed
    * Large, slow
 * TNTA Bombs
-   * All TNTA Bombs/Explosives
+   * All TNTA Bombs/Explosives - see below
 
 Guns : 
 * Laser Guns, Laser **Beam** Guns
   * Small
   * Medium
   * Large
-* Normal Guns
-
-Variations :
-* High reload, lack of accuracy, good speed
-* High accuracy, bad reload, better speed
+* Firearms
+  * stujones' shooter-like
+    * Pistol
+    * Shotgun
+    * Rifle
+    * Submachinegun(SMG)
+  * Sniper Rifle
+  * Machinegun
+  * Colt
+  * Flamethrower
 
 Bows : 
 * Shortbow
 * Longbow - better shortbow
 * Crossbow - faster than longbow but worse reload
 
-Arrows come in **all tiers**. They can't break blocks; when they hit a block, they either break or can be picked up by punching them. Less precious arrows have a higher chance of breaking.
+Arrows come in **all tiers**. They can't break blocks; when they hit a block, they either break or can be picked up by punching them. Arrows can't hit multiple entities/players. Less precious arrows have a higher chance of breaking.
 
 How they work : 
 * Place ammo on the left side of them
