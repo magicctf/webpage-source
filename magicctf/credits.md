@@ -37,6 +37,7 @@ Wuzzy
 -----
 
 Your hudbars mod is very stable and looks magnificient. The mana bar is an addition that is very useful for a magical themed (sub)game. Great work ! Thank you very much for that.
+It is very kind and generous of you that you licensed **all stuff by you that I know** under **extremely free** licenses.
 
 stu(jones)
 ----------
@@ -52,7 +53,10 @@ Your sprint mod comes in very handy ! Neat and well balanced ! Works perfect.
 Minetest Game Contributors
 --------------------------
 
-* insert
+* celeron55
+* Minetest Core Developers
+* Various other open-source supporters & contributors
+   * Visit README.txt in each mod directory to get to know them
 
 
 MTG is just basic when creating a (sub)game. It's overwhelming stable & well made. Good job !
@@ -60,9 +64,20 @@ MTG is just basic when creating a (sub)game. It's overwhelming stable & well mad
 WorldEdit Contributors
 ----------------------
 
+* cheapie
+* cornernote
+* cyisfor
+* danierukun
+* electricface
+* est31
+* kaeza
+* khonkhortisan
+* pickardjoe
+* Sebastien Ponce
 * sfan5
+* ShadowNinja
+* spillz
 * Uberi/Temperest
-* insert
 
 I guess I don't have to give any explanations why WorldEdit is **essential** for large buildings. For sure one of the most popular mods on MT servers ! Keep up the good work !
 
