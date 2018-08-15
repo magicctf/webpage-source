@@ -32,3 +32,5 @@ Content by KGM(magical, tnta & more_weapons base) is licensed under a **custom l
 which **was** fully compatible with the Minetest forum rules.
 
 All other stuff was made by LMD and is licensed under **GPLv3**, if not otherwise stated.
+As the Gullskoe font is licensed under **CC-BY-NC**, all textures of this game that are based on that font are therefore licensed under **CC-BY-NC**.
+The textures based on jp's enchantment table texture(magic tables, treasure spawners) **keeps the license**.

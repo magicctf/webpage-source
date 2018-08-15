@@ -2,7 +2,7 @@ Credits:Giving credits to all contributors.
 Credits
 =======
 
-Magic-CTF is mainly being developed by KGM and LMD. But of course, it's not only our work - much stuff is by other contributors.
+Magic-CTF is mainly being developed by LMD and KGM. But of course, it's not only our work - much stuff is by other contributors.
 __Note : We don't even dare to compare the contributions of the people listed below, so please don't take anything wrong.__
 __Furthermore, of course there are far more people I'd have to give thanks to; developers, artists and many other contributors all over the world - but unfortunately, that's not possible in here.__
 
@@ -12,6 +12,7 @@ The contributions of the following people are included here :
 * stu : arrow model & code, 3d_armor mod
 * GunshipPenguin : sprint mod
 * jp : Enchantment Table Texture
+* __Odd Einar Haugen__ : Gullskoe Rune Font
 * The Minetest Game Contributors : Magic-CTF is based on MTG.
 * The World Edit Contributors : As an important voxel area manipulation modpack, WorldEdit is included to allow the admins to create beautiful maps.
 
@@ -22,7 +23,14 @@ Your Enchantment Table Texture was very useful as it looks really good and offer
 The following textures are based on it : 
 * Red Magic Table : just copied
 * Blue Magic Table : copied and colorized
-* Treasure Spawner : copied but simplified & colorized
+* Treasure Spawner : copied but simplified & colorize
+
+ __Odd Einar Haugen__
+---------------------
+
+The [**Gullskoe**](https://folk.uib.no/hnooh/runefont/Gullskoen-e.html) Font by __Odd Einar Haugen__ offers authentic, high-quality runes which helped alot when we were in need for runes. They are used within the Runestones, the Progress Bar(see Texture Packs), and the logo. Probably also elsewhere in this game and the additional resources...
+The Gullskoe Font is licensed under **CC-BY-NC**.
+All textures of this game that are based on the Gullskoe Rune Font are therefore licensed under **CC-BY-NC**.
 
 
 Wuzzy
@@ -53,6 +61,7 @@ WorldEdit Contributors
 ----------------------
 
 * sfan5
+* Uberi/Temperest
 * insert
 
 I guess I don't have to give any explanations why WorldEdit is **essential** for large buildings. For sure one of the most popular mods on MT servers ! Keep up the good work !
