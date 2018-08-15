@@ -28,7 +28,7 @@ The following textures are based on it :
  __Odd Einar Haugen__
 ---------------------
 
-The [**Gullskoen**](https://folk.uib.no/hnooh/runefont/Gullskoen-e.html) Font by __Odd Einar Haugen__ offers authentic, high-quality runes which helped alot when we were in need for runes. They are used within the Runestones, the Progress Bar(see Texture Packs), and the logo. Probably also elsewhere in this game and the additional resources...
+The [Gullskoen](https://folk.uib.no/hnooh/runefont/Gullskoen-e.html) Font by __Odd Einar Haugen__ offers authentic, high-quality runes which helped alot when we were in need for runes. They are used within the Runestones, the Progress Bar(see Texture Packs), and the logo. Probably also elsewhere in this game and the additional resources...
 The Gullskoe Font is licensed under **CC-BY-NC**.
 All textures of this game that are based on the Gullskoe Rune Font are therefore licensed under **CC-BY-NC**.
 
