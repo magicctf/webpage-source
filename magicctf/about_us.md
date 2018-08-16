@@ -10,7 +10,7 @@ E-Mail : [appgurulars@gmx.de](mailto:appgurulars@gmx.de)
 MT Forum : [LMD](lmd)
 GitHub : [appgurueu](github.com/appgurueu)
 
-![Image](invalid "Self portrait of LMD")
+![Image](LMD.png "Self portrait of LMD")
 
 KGM
 ---

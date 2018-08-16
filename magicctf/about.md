@@ -1,4 +1,4 @@
-About Magic-CTF:General Information.
+About Magic-CTF:General Information. <b>In case you are new to this page, it is recommended to visit this topic first</b>.
 About Magic-CTF
 ===============
 
@@ -21,6 +21,11 @@ GitHub
 ------
 
 [GitHub Organization](https://github.com/magicctf)
+
+Discord
+-------
+
+Discord General Discussion Channel : [Invitation](https://discord.gg/77NvmSY)
 
 Website
 -------
