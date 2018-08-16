@@ -81,13 +81,15 @@ A `+` and a `-` button to improve/downgrade certain skills.
 
 Skills
 ------
-https://forum.minetest.net/viewtopic.php?t=4654
-https://forum.minetest.net/viewtopic.php?t=4654ems, such as magic wands/staves, you won't be able to drop them. Also, they won't be dropped on death.
-https://forum.minetest.net/viewtopic.php?t=4654
-https://forum.minetest.net/viewtopic.php?t=4654
+
+
+Items obtained by upgrading skills, such as magic wands/staves, won't be able to be dropped. Also, they won't be dropped on death.
+
+
+Magical(magical)
 ----------------
 
-**Mod by KGM**. Responsible for some magic in this game.
+**Mod by KGM**. Responsible for some magic in this game. Magic can only be obtained by upgrading the appropriate skills.
 
 ### Creatures
 This adds two creatures, (big) parasites and small ones.
