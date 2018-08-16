@@ -81,10 +81,10 @@ A `+` and a `-` button to improve/downgrade certain skills.
 
 Skills
 ------
-
-Registers the skills. If certain skills give you items, such as magic wands/staves, you won't be able to drop them. Also, they won't be dropped on death.
-
-Magical(magical)
+https://forum.minetest.net/viewtopic.php?t=4654
+https://forum.minetest.net/viewtopic.php?t=4654ems, such as magic wands/staves, you won't be able to drop them. Also, they won't be dropped on death.
+https://forum.minetest.net/viewtopic.php?t=4654
+https://forum.minetest.net/viewtopic.php?t=4654
 ----------------
 
 **Mod by KGM**. Responsible for some magic in this game.
@@ -340,24 +340,23 @@ Please note that the GUI is not present.
 **Mods by stu.**
 3d_armor_sfinv was left idle.
 Provides armor to protect the player from taking damage. A popular and well known mod.
-If you want to look at it's documentation, visit MT Forum : [deadlink](mt forum)
+If you want to look at it's documentation, visit MT Forum : [3D Armor Modpack](https://forum.minetest.net/viewtopic.php?t=4654)
 Was slightly modified by LMD to add Galvorn Armor, add magical protection and alter Mithril Armor textures. Some stats were tweaked, too, and a "Wear" label was added, showing the player how much his armor will last.
+__Fun fact : In order to create Mithril & Galvorn Armor Textures, I wrote a littl' Java Helper...__
 
-__I unfortunately had to disable the preview as I couldn't get it to work with MT texture modifiers...__
-
-Hudbars & Mana(hudbars, mana)
+HUD bars & Mana(hudbars, mana)
 -----------------------------
 
 **Mods by Wuzzy.**
 Improves hudbar look. A mana bar is added, too.
-If you want to look at it's documentation, visit MT Forum : [deadlink](mt forum)
+If you want to look at it's documentation, visit MT Forum : [HUD bars Mod](https://forum.minetest.net/viewtopic.php?t=11153), [Mana Mod](https://forum.minetest.net/viewtopic.php?f=9&t=11154).
 
 
 Sprint(sprint)
 --------------
 
 **Mod by GunshipPenguin.**
-Adds a sprint bar. Allows you to sprint while pressing E if you have enough stamina. Was slightly modified to make it compatible with potions.
+Adds a sprint bar. Allows you to sprint while pressing E if you have enough stamina. Was slightly modified to make it compatible with potions. MT Forum Reference : [Sprint Mod](https://forum.minetest.net/viewtopic.php?f=11&t=965)
 
 
 Kill History(deathlist)
@@ -460,3 +459,6 @@ Treasure Spawners(treasure_spawners)
 ------------------------------------
 
 Adds Treasure Spawners. Uses same "price calculation" system as Treasure Chests. When they spawn treasure, a green particle effect appears.
+
+
+
