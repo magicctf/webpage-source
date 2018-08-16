@@ -29,6 +29,10 @@ div.col-md-4, div.col-lg, div.col-sm {
   background: rgba(255, 255, 255, 0.6);
 }
 
+div.col-lg {
+    margin-bottom: 5px;
+}
+
 div.col-sm-4 {
   padding: 5px;
 }
