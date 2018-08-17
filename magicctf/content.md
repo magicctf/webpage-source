@@ -37,6 +37,14 @@ Crafting Recipes
 
 No crafting recipes will be included in this content documentation, as it's irrelevant - in-game, there's a crafting guide.
 
+API
+---
+
+At this point I'd like to cite the signature of Minetest Forum Member Byakuren : 
+> Every time a mod API is left undocumented, a koala dies.
+**HOUSTON**  we have a problem !
+However, the code __should be quite clear__, and easy to understand. If you have got questions or feature requests, just open an issue on GitHub or reply on Minetest Forum.
+
 
 Tiers
 -----
