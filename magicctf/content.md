@@ -5,6 +5,22 @@ Content
 __Note : Some details may be left entirely out, as we don't have time to maintain the docs really well.__
 __So if you want to know **all** the content, have a try on Magic-CTF and discover it by yourself ;)__
 
+Texture Packs
+=============
+
+It is planned to add multiple texture packs by just filtering the textures.
+Currently there is a [High Contrast Texture Pack](releases.html).
+It includes a **rune progress bar**.
+However, the [Rune Progress Bar](releases.html) is also available standalone.
+
+Maps
+====
+
+Visit the official map repository on GitHub for Minetest Schematics : [Magic-CTF Map Repository](https://www.github.com/magicctf/maps).
+
+Included Mods
+=============
+
 Overview
 --------
 
@@ -23,14 +39,21 @@ Exceptions :
 About the forks : 
 Look the content documentation below.
 
+Mod compatibility
+-----------------
 
-Texture Packs
--------------
+As this is a subgame, most mods depend on other mods' functions. Therefore, it may not be easy to extract certain mods.
 
-It is planned to add multiple texture packs by just filtering the textures.
-Currently there is a [High Contrast Texture Pack](releases.html).
-It includes a **rune progress bar**.
-However, the [Rune Progress Bar](releases.html) is also available standalone.
+
+Status
+------
+
+If not otherwise stated, you may assume that every contained mod is considered __finished__, eg most likely won't be improved in future versions.
+
+Changelog
+---------
+
+Randomly, changes will be posted here(according to our mood).
 
 Crafting Recipes
 ----------------
@@ -44,7 +67,6 @@ At this point I'd like to cite the signature of Minetest Forum Member Byakuren :
 > Every time a mod API is left undocumented, a koala dies.
 **HOUSTON**  we have a problem !
 However, the code __should be quite clear__, and easy to understand. If you have got questions or feature requests, just open an issue on GitHub or reply on Minetest Forum.
-
 
 Tiers
 -----
@@ -60,19 +82,6 @@ Following, **Tiers** stands for those material ranks/tiers :
 * Wood
 
 In relation to the tiers, __"more precious"__ means higher tier, eg Mithril is more precious than Galvorn.
-
-
-Mod compatibility
------------------
-
-As this is a subgame, most mods depend on other mods' functions. Therefore, it may not be easy to extract certain mods.
-
-
-Status
-------
-
-If not otherwise stated, you may assume that every contained mod is considered __finished__, eg most likely won't be improved in future versions.
-
 
 Skill selection(select_skills)
 ------------------------------
@@ -293,7 +302,7 @@ Spikes come in all **Tiers**. The higher the tier, the harder they are to dig an
 
 ### Parasite Egg
 
-Parasite Eggs are triggered if an enemy goes next to them or a **Rune Signal** reaches them.
+Parasite Eggs are triggered if an enemy goes next to them or a **Rune Signal** reaches them. They spawned - guess what - parasites.
 
 ### Drainers
 
@@ -324,7 +333,7 @@ There are the following Rune Stones :
 Advanced TNT(tnta)
 ------------------
 
-A well-known and quite popular mod by KGM, modified by LMD.
+A well-known and quite popular mod by KGM, modified by LMD. Fast due to the use of `VoxelManip`.
 
 It adds lots of explosives : 
 
@@ -334,6 +343,8 @@ It adds lots of explosives :
 * Gas Bombs - no explosion, sorry - but major damage dealt to anybody in radius
 
 And many of them come in different types.
+Here is a link to the (outdated) Minetest Forum Thread : [TNTA++ Mod](https://forum.minetest.net/viewtopic.php?f=9&t=16768).
+Nukes have been removed as they have far too big explosions to suit in here.
 
 
 World Edit(worldedit, worldedit_(short-)commands)
