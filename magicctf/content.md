@@ -80,7 +80,7 @@ Following, **Tiers** stands for those material ranks/tiers :
 * Steel
 * Stone
 * Wood
-
+chat
 In relation to the tiers, __"more precious"__ means higher tier, eg Mithril is more precious than Galvorn.
 
 Skill selection(select_skills)
@@ -172,6 +172,11 @@ Bones(bones)
 ------------
 
 Added a flag for items which are not to be dropped on death. Examples of such items are __initial items__ or __magic wands__.
+
+Default MTG Stuff(default)
+--------------------------
+
+Removed locked chests & improved item entities. Some other changes were made, too, but I can't recall them...
 
 
 Screwdriver(screwdriver)
@@ -386,10 +391,9 @@ Kill History(deathlist)
 Shows kill messages : 
 <Player X> <Used item> killed <Player Y>
 
-Also handles ELO & K/D System.
+Also handles ELO & K/D System. Use the chatcommand `/show_stats <playername>` to show the players stats.
 
 Furthermore, handles **knockback**.
-
 
 
 Magic Tables(magicbooks)
@@ -405,7 +409,7 @@ Magic Tables are all-in-one :
 * Flag
 
 The inventory has got three sections : 
-* A shared one, which can be acessed by every team member.
+* A shared one, which can be accessed by every team member.
 * A low-elo section(3x4 slots) - can only be accessed & seen by low elo players
 * A high-elo section(2x4 slots) - can only be accessed & seen by high elo players
 
@@ -419,10 +423,11 @@ Colored messages will tell you what to do in-game.
 
 ### Message System
 
-Messaging works pretty easy : 
+Messaging/Chatting works pretty easy : 
 * When you type something, it becomes a secret message, which only your team can see.
 * If you want to write a global message, use @all before your message : `@all Hello everybody !`
 * If you want to write a message to a certain player, use @playername : `@singleplayer How is it goin', singleplayer ?`
+* `/show_messages` shows message history.
 
 ### Health Rune
 
@@ -431,6 +436,15 @@ A rune on your front showing your health. Can be hidden using armor(chestplate).
 ### Crafting Guide
 
 An intuitive crafting guide, using sfinv. Entirely made by LMD.
+
+### Help
+
+Basic in-game advice tab using sfinv.
+
+### Maps
+
+Visit the ["Videos"](videos.html) topic to learn about Magic-CTF's map system, which is also handled by this Mod.
+Video introduces the `/rtp <Mapname>` command to mark a map as ready to play.
 
 
 

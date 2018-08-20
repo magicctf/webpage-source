@@ -2,7 +2,7 @@ Licensing:Covers the juristic aspects.
 Licensing
 =========
 
-**The Minetest Game content, as well as the mods by external contributors(hudbars & mana(Wuzzy), sprint(Gunship Penguin), 3d_armor modpack(stu)), of course remain under their licences.**
+**The Minetest Game content, as well as the mods by external contributors(hudbars & mana(Wuzzy), sprint(Gunship Penguin), 3d_armor modpack(stu)), of course remain under their licenses.**
 
 Content by KGM(magical, tnta & more_weapons base) is licensed under a **custom license** : 
 
@@ -33,4 +33,4 @@ which **was** fully compatible with the Minetest forum rules.
 
 All other stuff was made by LMD and is licensed under **GPLv3**, if not otherwise stated.
 As the Gullskoen font is licensed under **CC-BY-NC**, all textures of this game that are based on that font are therefore also licensed under **CC-BY-NC**.
-The textures based on jp's enchantment table texture(magic tables, treasure spawners) **keeps the license**.
+The textures based on jp's enchantment table texture(magic tables, treasure spawners) **inherit the license**.
