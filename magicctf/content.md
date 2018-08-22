@@ -80,8 +80,8 @@ Following, **Tiers** stands for those material ranks/tiers :
 * Steel
 * Stone
 * Wood
-chat
-In relation to the tiers, __"more precious"__ means higher tier, eg Mithril is more precious than Galvorn.
+
+In relation to the tiers, __"more precious"__ means higher tier, ie Mithril is more precious than Galvorn.
 
 Skill selection(select_skills)
 ------------------------------
@@ -100,7 +100,7 @@ Skills
 ------
 
 
-Items obtained by upgrading skills, such as magic wands/staves, won't be able to be dropped. Also, they won't be dropped on death.
+Items obtained by upgrading skills, such as magic wands/staves, can't be dropped. Also, they won't be dropped on death.
 
 
 Magical(magical)
