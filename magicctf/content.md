@@ -382,7 +382,7 @@ Sprint(sprint)
 --------------
 
 **Mod by GunshipPenguin.**
-Adds a sprint bar. Allows you to sprint while pressing E if you have enough stamina. Was slightly modified to make it compatible with potions. MT Forum Reference : [Sprint Mod](https://forum.minetest.net/viewtopic.php?f=11&t=965)
+Adds a sprint bar. Allows you to sprint while pressing E if you have enough stamina. Was slightly modified to make it compatible with potions. MT Forum Reference : [Sprint Mod](https://forum.minetest.net/viewtopic.php?t=9650)
 
 
 Kill History(deathlist)
