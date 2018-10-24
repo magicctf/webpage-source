@@ -7,7 +7,7 @@ Aim
 
 Magic-CTF is a new CTF Game for Minetest. It is an important goal to have a strong magical component.
 Therefore, the game tries to look & feel somehow magical-medieval - accordingly, the HUD has been altered.
-Other than rubenwardy's CTF, it doesnt focus on removing stuff to keep the game focused, but instead aims at adding even more.
+Other than rubenwardy's CTF, it doesn't focus on removing stuff to keep the game focused, but instead aims at adding even more.
 That should lead to a more interesting gameplay. Players should be encouraged to develop their own strategies.
 
 **The long-term goal is to make Magic-CTF the best & most popular server game for Minetest.**
