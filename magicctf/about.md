@@ -19,9 +19,9 @@ It is strongly recommended to take a look at the [Content](content.html) of Magi
 
 References
 ----------
-* **[GitHub Organization](https://github.com/magicctf)**
-* **[Discord Invitation](https://discord.gg/77NvmSY)**
-* **[Magic-CTF Project Thread](https://forum.minetest.net/viewtopic.php?f=49&t=20523)**
+* [GitHub Organization](https://github.com/magicctf)
+* [Discord Invitation](https://discord.gg/77NvmSY)
+* [Magic-CTF Project Thread](https://forum.minetest.net/viewtopic.php?f=49&t=20523)
 
 Website
 -------
