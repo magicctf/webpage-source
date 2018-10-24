@@ -87,3 +87,4 @@ __Further thanks__
 * rubenwardy for inspiring us to do this
 * celeron55 and the Minetest Core Developers & Contributors, which all helped creating this impressive engine !
 * Stix and ManElevation for encouragement
+* Stix for helping out with English(*Hints*)

@@ -17,15 +17,11 @@ Website Guide
 
 It is strongly recommended to take a look at the [Content](content.html) of Magic-CTF. Also, please visit [Credits](credits.html), to get to know all the other contributors besides LMD and KGM whose contributions made this game possible. If you finally decide to give it a try on your server, go to the [Releases](releases.html).
 
-GitHub
-------
+## [GitHub Organization](https://github.com/magicctf)
 
-[GitHub Organization](https://github.com/magicctf)
+## [Discord Invitation](https://discord.gg/77NvmSY)
 
-Discord
--------
-
-Discord General Discussion Channel : [Invitation](https://discord.gg/77NvmSY)
+## [Magic-CTF Project Thread](https://forum.minetest.net/viewtopic.php?f=49&t=20523)
 
 Website
 -------
@@ -54,9 +50,3 @@ Todos
 -----
 
 Mentioned in ["Content"](content.html) section.
-
-
-Feedback
---------
-
-Feedback on Minetest Forum, please : [Magic-CTF Project Thread](https://forum.minetest.net/viewtopic.php?f=49&t=20523)
