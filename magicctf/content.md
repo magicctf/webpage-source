@@ -378,6 +378,8 @@ HUD bars & Mana(hudbars, mana)
 
 **Mods by Wuzzy.**
 Improves hudbar look. A mana bar is added, too.
+Modified by LMD to add a very special regen bar : 
+![Image](hiding_regen.gif "Modern HUD Bars, using Wuzzy's hudbars mod, and inspired by Linuxdirks Hunger NG mod")
 If you want to look at it's documentation, visit MT Forum : [HUD bars Mod](https://forum.minetest.net/viewtopic.php?t=11153), [Mana Mod](https://forum.minetest.net/viewtopic.php?f=9&t=11154).
 
 
