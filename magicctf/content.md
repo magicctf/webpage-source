@@ -189,6 +189,9 @@ Player Regeneration(player_regen)
 ---------------------------------
 
 Title says it all : Gives health regen to all players.
+**Health regen is increased if you stay idle(don't move and aren't hit) or have much stamina.**
+The idea behind this is that so you needn't wait as long when regenerating at a safe place.
+![Image](hiding_regen.gif "Modern HUD Bars, using Wuzzy's hudbars mod, and inspired by Linuxdirks Hunger NG mod")
 
 
 Advanced Firearms & Weapons(adv_arms)

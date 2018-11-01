@@ -9,3 +9,4 @@ Unfortunately, this gallery is far from complete and needs many more screenshots
 ![Image](screenshot.png "Default Textures vs High Contrast TP")
 ![Image](screenshot2.png "Rune Progress Bar")
 ![Image](mctf_dir.png "Magic-CTF Directory, explanation provided in [Content](content.html) section.")
+![Image](hiding_regen.gif "Modern HUD Bars, using Wuzzy's hudbars mod, and inspired by Linuxdirks Hunger NG mod")
