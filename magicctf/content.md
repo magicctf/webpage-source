@@ -184,6 +184,10 @@ Screwdriver(screwdriver)
 
 Only obtainable in creative.
 
+Spam protection(antispam)
+-------------------------
+
+Protects from bots/players spamming messages.
 
 Player Regeneration(player_regen)
 ---------------------------------
@@ -341,7 +345,7 @@ There are the following Rune Stones :
 Advanced TNT(tnta)
 ------------------
 
-A well-known and quite popular mod by KGM, modified by LMD. Fast due to the use of `VoxelManip`.
+A well-known and quite popular mod by KGM, modified by LMD(**Added particle effect and improved knockback, tweaked throwing, improved blenders**). Fast due to the use of `VoxelManip`.
 
 It adds lots of explosives : 
 
@@ -441,6 +445,16 @@ A rune on your front showing your health. Can be hidden using armor(chestplate).
 ### Crafting Guide
 
 An intuitive crafting guide, using sfinv. Entirely made by LMD.
+
+### Rule Formspec
+
+Shows the rules which you have to agree to.
+
+### Spirits
+
+When leaving away from your magic table, **you leave a spirit**.
+If this spirit is hit, you get a death and your elo is decreased.
+![Image](spirit.png "A spirit")
 
 ### Help
 
