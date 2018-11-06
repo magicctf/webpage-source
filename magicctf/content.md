@@ -95,6 +95,8 @@ It consist out of 3 control buttons :
 Many skill buttons : Click on one to select that skill.
 A `+` and a `-` button to improve/downgrade certain skills.
 
+![Image](https://forum.minetest.net/download/file.php?mode=view&id=15860 "Outdated screenshot")
+
 
 Skills
 ------
@@ -358,6 +360,7 @@ And many of them come in different types.
 Here is a link to the (outdated) Minetest Forum Thread : [TNTA++ Mod](https://forum.minetest.net/viewtopic.php?f=9&t=16768).
 Nukes have been removed as they have far too big explosions to suit in here.
 
+![Image](https://media.giphy.com/media/RHLmmPWE9AVkHwkGzH/giphy.gif "Outdated GIF of explosion")
 
 World Edit(worldedit, worldedit_(short-)commands)
 -------------------------------------------------
@@ -459,6 +462,7 @@ If this spirit is hit, you get a death and your elo is decreased.
 ### Help
 
 Basic in-game advice tab using sfinv.
+![Image](https://forum.minetest.net/download/file.php?mode=view&id=16916&sid=49e2119a18c9eb8c652920dd105fb970 "Screenshot")
 
 ### Maps
 
