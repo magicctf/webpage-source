@@ -314,6 +314,8 @@ Advanced Traps(adv_traps)
 
 Spikes come in all **Tiers**. The higher the tier, the harder they are to dig and the more damage they deal.
 
+![Image](https://forum.minetest.net/download/file.php?mode=view&id=15953&sid=ad7315684972ab614617e18fb82401d7 "Screenshot of spikes in all tiers")
+
 ### Parasite Egg
 
 Parasite Eggs are triggered if an enemy goes next to them or a **Rune Signal** reaches them. They spawned - guess what - parasites.
@@ -343,6 +345,8 @@ There are the following Rune Stones :
 * Stepper - triggers when somebody steps on **or** when it is right clicked
 * Detector - triggers when somebody is in radius **or** when it is right clicked
 * Disappear Block - becomes invisible when triggered. Reappears when triggered again.
+
+![Image](https://forum.minetest.net/download/file.php?mode=view&id=15954&sid=ad7315684972ab614617e18fb82401d7 "Various adv_traps stuff")
 
 Advanced TNT(tnta)
 ------------------
@@ -448,6 +452,7 @@ A rune on your front showing your health. Can be hidden using armor(chestplate).
 ### Crafting Guide
 
 An intuitive crafting guide, using sfinv. Entirely made by LMD.
+![Image](https://forum.minetest.net/download/file.php?mode=view&id=15907 "Reinvented the crafting guide")
 
 ### Rule Formspec
 
@@ -496,6 +501,7 @@ And new tools using all materials :
 * Mace
 * Halberd
 
+![Image](https://forum.minetest.net/download/file.php?mode=view&id=15957&sid=ad7315684972ab614617e18fb82401d7 "Maces of all tiers except Mithril")
 
 Treasure Chests(treasure_chests)
 --------------------------------
