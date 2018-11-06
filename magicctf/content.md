@@ -305,6 +305,8 @@ Potions :
 
 **More potions are planned.**
 
+![Image](https://forum.minetest.net/download/file.php?mode=view&id=15952&sid=ad7315684972ab614617e18fb82401d7 "Old screenshot")
+
 
 
 Advanced Traps(adv_traps)
