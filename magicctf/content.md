@@ -104,6 +104,14 @@ Skills
 
 Items obtained by upgrading skills, such as magic wands/staves, can't be dropped. Also, they won't be dropped on death.
 
+#### Stealth/Invisibility
+A ring that keeps you invisible for some time. You will become visible again when punching someone.
+#### Shapeshifting
+A ring that makes you look like a player from your enemy team. Will also assign you a random nametag from an enemy.
+
+Stealth & Shapeshifting both cost Mana to initiate **and** keep you in that state. When you run out of Mana, the effect ends.
+The rings work by toggling each effect.
+
 
 Magical(magical)
 ----------------
@@ -114,7 +122,7 @@ Magical(magical)
 This adds two creatures, (big) parasites and small ones.
 They are pretty similar, however, a big parasite will kill you instantly.
 Small parasites on the other hand will __infect__ you, which means they lay eggs inside you, and after some time, you'll die and new small parasites will spawn.
-Therefore, keep a look at the n00bs in your team, to make sure they don't carry the plague to your base !
+Therefore, keep a look at the noobs in your team, to make sure they don't carry the plague to your base !
 Both are spawned using magic staves, which you can obtain by upgrading the appropriate skills in the skill selection dialog.
 When using such a stave, you'll create a __Hell Portal__, which can't be destroyed and will spawn certain parasites one by one, after time.
 Parasites don't belong to any team, so it would be a bad idea to open such a portal next to your base.
@@ -123,8 +131,9 @@ Parasites don't belong to any team, so it would be a bad idea to open such a por
 There are many magic spells which can be casted using **magic staves/wands**. To be able to use them, upgrade them in the skill selection dialog.
 For casting spells, sufficient __Mana__ is required. Spells will be stronger if you cast them using more mana.
 Spells can deal __floating point damage__ which is summed up.
-Physical armor can't protect against spells, while magical can. Galvorn & Diamond armor offer magical protection.
-All magic **ignores any nodes**. Probably magic barricades will get added to this. 
+Physical armor can't protect against spells, while magical can. Mithril & Diamond armor offer magical protection.
+All magic **ignores any nodes**. Probably magic barricades will get added to this.
+Kills work special : **The last caster of the lethal magic(for instance fire) gets the kill**.
 
 #### Parasites
 Comes in two variants, one for spawning big parasites and one for small ones. See "Creatures".
@@ -133,19 +142,16 @@ Comes in two variants, one for spawning big parasites and one for small ones. Se
 Kinda basic ? Set enemies on fire using this stave.
 
 #### Poison
-Pretty much like fire, but deals more damage. Why ? Because it's a risk for the caster to use : Poison __inflicts__ nearby players. So never use such a stave if the enemy is too close...
+Pretty much like fire, but deals more damage. Why ? Because this way there's a risk for the caster to use : Poison __inflicts__ nearby players. So never use such a stave if the enemy is too close...
 
 #### Exile
 Having a problem with the parasite plague ? Ban them into exile ! After a time, they'll bother you again, unfortunately...
 
 #### Heal
-Running out of HP ? Heals yourself.
-
-#### Teamheal
 Good for supporting your mates, as it's far stronger than normal heal stave. Also, the more allies you reach, the more it heals yourself !
 
 #### Dazzling
-Go ask KGM.
+Fancy particle effects distract the enemy.
 
 #### Curse
 Curses you and your enemy, the enemy stronger. **You are also cursed if you don't hit anybody.** Vengeance needed ?
@@ -189,7 +195,7 @@ Only obtainable in creative.
 Spam protection(antispam)
 -------------------------
 
-Protects from bots/players spamming messages.
+Protects from bots/players spamming messages. Also includes our version of afkkick : kicking inactive players based on player controls.
 
 Player Regeneration(player_regen)
 ---------------------------------
